@@ -4,4 +4,4 @@ Tasks I did in SoloLearn with programming language C++.
 
 These tasks are given by SoloLearn and this includes learning, experimenting, and accomplishing C++ learning module in SoloLearn.
 
-NOTE: The tasks that I did not put here are considered "Easy", so the tasks here are complicated, for me at least.
+NOTE: I did not copy the code from "Show Solution" button from SoloLearn, instead, I created my own way of solving the problem without showing the answers from the app.
