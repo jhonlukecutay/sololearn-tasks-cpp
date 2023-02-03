@@ -1,6 +1,6 @@
 # sololearn-tasks-cpp
 
-NOTE: I did not copy the code from "Show Solution" button from SoloLearn, instead, I created my own way of solving the problem without showing the answers from the app.
+NOTE: I did not copy the code from "Show Solution" button from SoloLearn, instead, I created my own way of solving these given tasks without showing the answers from the app.
 
 Some tasks I did in SoloLearn with programming language C++.
 
